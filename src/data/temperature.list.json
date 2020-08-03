@@ -1,0 +1,17 @@
+[
+    {
+        "text": "Celcius",
+        "short": "\u00B0C",
+        "unit": "metric"
+    },
+    {
+        "text": "Fahrenheit",
+        "short": "\u00B0F",
+        "unit": "imperial"
+    },
+    {
+        "text": "Kelvin",
+        "short": "\u00B0K",
+        "unit": ""
+    }
+]
