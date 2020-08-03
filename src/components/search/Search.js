@@ -28,7 +28,7 @@ export const Search = () => {
     const [isFocus, setIsFocus] = useState( true );
 
     const [ formValues, handleInputChange, reset ] = useForm({
-        city: 'Mazatlán'
+        city: ''
     });
 
     const { city } = formValues;
